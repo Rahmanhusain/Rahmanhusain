@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahman husain
+- 👋 Hi, I’m @Rahmanhusain
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Software developement Projects
