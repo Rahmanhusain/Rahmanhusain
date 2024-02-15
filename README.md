@@ -2,8 +2,8 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Software developement Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 E-mail me on rahmanhusain899@gmail.com
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
