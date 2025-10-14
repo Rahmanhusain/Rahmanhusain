@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630008891119/grQnWLOwZ.jpeg?auto=compress,format&format=webp" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
 </p>
 
 <p align="center">
@@ -21,6 +21,12 @@
 ---
 
 ### 🚀 About Me
+<br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5328c31f-9786-4d9e-9872-0004bb817776" width="300" height="300" style="border-radius: 50%;" alt="Rahman_image"/>
+</p>
+
+<br/>
 
 - 🧑‍💻 **Software Engineer | Full-Stack Dev | Aspiring DevOps Engineer**
 - 🎓 Pursuing **B.Tech in CSE** at GTB4CEC (GGSIPU)
