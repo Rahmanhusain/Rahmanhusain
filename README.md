@@ -1,140 +1,128 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Rahman+Husain!;Full-Stack+Dev+%7C+Builder+of+Things;Welcome+to+my+digital+space!+%F0%9F%8E%AF" alt="Typing SVG" style="max-width:100%; height:auto;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&width=750&lines=Hey+there+%F0%9F%91%8B+I'm+Rahman+Husain;Software+Engineer+%7C+Full-Stack+Developer;Building+Cloud-Native+Systems+%26+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630008891119/grQnWLOwZ.jpeg?auto=compress,format&format=webp" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
-</p>
-
-<p align="center">
-  <b>Software Engineer | Full-Stack Developer | Tech Enthusiast</b><br />
-  Building scalable apps & intuitive digital experiences.
+  <b>Software Engineer | Full-Stack Developer | Cloud & Agentic AI enthusiast</b><br/>
+  Designing scalable systems, reliable backends, and modern web applications.
 </p>
 
 <p align="center">
   <a href="mailto:rahmanhusain899@gmail.com"><img src="https://img.shields.io/badge/Email-gradient?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16a34a"/></a>
-  <a href="https://linkedin.com/in/rahmanhusain"><img src="https://img.shields.io/badge/LinkedIn-gradient?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3b82f6"/></a>
-  <a href="https://github.com/rahmanhusain"><img src="https://img.shields.io/badge/GitHub-gradient?style=for-the-badge&logo=github&logoColor=white&labelColor=16a34a"/></a>
+  <a href="https://www.linkedin.com/in/rahman-husain-45bb60237/"><img src="https://img.shields.io/badge/LinkedIn-gradient?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3b82f6"/></a>
+  <a href="https://github.com/Rahmanhusain"><img src="https://img.shields.io/badge/GitHub-gradient?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
   <a href="https://rahmanfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gradient?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9333ea"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
-<br/>
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/5328c31f-9786-4d9e-9872-0004bb817776" width="300" height="300" style="border-radius: 50%;" alt="Rahman_image"/>
-</p>
+## 🚀 About Me
 
-<br/>
+I’m a **Software Engineer and Full-Stack Developer** with strong hands-on experience building and deploying **cloud-native, production-ready applications**.
 
-- 🧑‍💻 **Software Engineer | Full-Stack Dev | Aspiring DevOps Engineer**
-- 🎓 Pursuing **B.Tech in CSE** at GTB4CEC (GGSIPU)
-- 🏗️ Built 10+ products: web apps, browser extensions, programming tools & more.
-- ⚡ Hackathoner (4×), Tech Fest Coordinator, Problem Solver
+I work across **backend systems, APIs, databases, and modern frontend frameworks**, with a strong focus on **scalability, automation, and clean architecture**. I enjoy building systems that solve real problems—especially where reliability, performance, and cost-efficiency matter.
+
+**What I focus on:**
+- Backend engineering & API design  
+- Cloud infrastructure & automation (AWS)  
+- Full-stack product development  
+- Clean, maintainable, production-ready code  
 
 ---
 
-<details open>
-<summary><b>🛠️ My Tech Stack</b></summary>
+## 🛠️ Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `Java` `Python` `SQL`
+
+**Backend**  
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
+
+**Frontend**  
+`React.js` `Next.js` `Redux` `Tailwind CSS` `HTML5` `CSS3`
+
+**Databases**  
+`PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**Cloud & DevOps**  
+`AWS (EC2, RDS, Lambda, EventBridge)` `Docker` `Linux`
+
+**Tools & Practices**  
+`Git` `GitHub` `Postman` `CI-ready Docker builds` `Environment-based config`
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,react,nextjs,redux,nodejs,express,mongodb,mysql,firebase,tailwind,git,postman,androidstudio,vscode" alt="Tech Stack" style="max-width: 100%; height: auto;"/>
-</p>
-</details>
-
----
-
-<details open>
-<summary><b>🌟 Featured Projects</b></summary>
-
-<div style="overflow-x:auto;">
-<table width="100%">
-<tr>
-  <td><a href="https://gtb4love.vercel.app" target="_blank"><b>GTB4Love</b></a><br/><i>Full-stack dating platform (JWT Auth), 150+ users onboarded</i><br/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-00dc82?logo=supabase&logoColor=white" /></td>
-
-  <td><a href="https://saihandloomsandfurnishers.in" target="_blank"><b>Sai Handlooms</b></a><br/><i>Business showcase + admin dashboard</i><br/>
-  <img src="https://img.shields.io/badge/React-38bdf8?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06b6d4?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00618a?logo=mysql&logoColor=white" /></td>
-</tr>
-<tr>
-  <td><a href="https://rizzweb.netlify.app" target="_blank"><b>Rizzz Lang</b></a><br/><i>Custom beginner-friendly programming language</i><br/>
-  <img src="https://img.shields.io/badge/Python-22C55E?logo=python&logoColor=white" /></td>
-
-  <td><a href="https://revibeweb.vercel.app" target="_blank"><b>Revibe Extension</b></a><br/><i>AI Chrome Extension: screen-time tracker & chatbo</i><br/>
-  <img src="https://img.shields.io/badge/React-22C55E?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-fbbf24?logo=javascript&logoColor=black" /></td>
-</tr>
-<tr>
-  <td><a href="https://compressoio.vercel.app" target="_blank"><b>Compresso.io</b></a><br/><i>File compressor/converter, 50+ files/day</i><br/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" /></td>
-
-  <td><a href="https://avinyaatgtb4cec.vercel.app" target="_blank"><b>Avinya Fest</b></a><br/><i>College fest site (200+ visitors)</i><br/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06b6d4?logo=tailwind-css&logoColor=white" /></td>
-</tr>
-<tr>
-  <td colspan="2"><a href="https://github.com/Rahmanhusain/Student-Management-Desktop-Application/releases/tag/Stable"><b>Student Management System</b></a><br/><i>Desktop app to manage 500+ student records securely</i><br/>
-  <img src="https://img.shields.io/badge/Java-15803D?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-34D399?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00618a?logo=mysql&logoColor=white" /></td>
-</tr>
-</table>
-</div>
-</details>
-
----
-
-<details open>
-<summary><b>🎓 Certifications and Badges</b></summary>
-
-- 🏅 Java Programming - SoloLearn (2022)  
-- 🏅 Game Development in JavaScript - SoloLearn (2023)  
-- 🏅 Web Development Fundamentals - SoloLearn  
-</details>
-
----
-
-<details open>
-<summary><b>🏆 Hackathons & Awards</b></summary>
-
-- 🛡️ Built a Women Safety App at Hackamania 2025  
-- 🌱 Digital Recycling app at CodeZen 2025  
-- 🧩 Tech Problem Solver at Matrix 2.0  
-- 🎯 Tech Fest Coordinator, GTB4CEC 2024  
-- ♟️ Third Place - Inter-college Chess Tournament 2024  
-</details>
-
----
-
-### ✨ Interests & Fun
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=800&color=10b981&center=true&vCenter=true&width=500&lines=Tech+Nerd;Chess+Player+%F0%9F%8E%B2;Miniature+Art+%F0%9F%98%82;UI%2FUX+Lover+%F0%9F%92%BC;Productivity+Ninja+%F0%9F%94%A5" style="max-width:100%; height:auto;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,docker,aws,git,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
+
+### 🔹 CIMS — AI-Powered Customer Inquiry Management System
+**Tech:** Node.js, Express, PostgreSQL, Docker, AWS EC2, Lambda, EventBridge  
+🔗 https://github.com/Rahmanhusain/cims-aws-project
+
+- Built a **cloud-native backend system** for managing customer inquiries at scale  
+- Deployed Dockerized services on **AWS EC2** with **RDS (PostgreSQL)**  
+- Automated daily follow-up emails using **AWS Lambda + EventBridge**  
+- Integrated **AI-based intent, sentiment, and urgency classification**  
+- Implemented secure admin workflows with authentication and lifecycle tracking  
+- Followed AWS security best practices and production deployment patterns  
+
+---
+
+### 🔹 GTB4Love — Full-Stack Web Application
+**Tech:** Next.js, MongoDB, Supabase, JWT, Redux  
+🔗 https://gtb4love.vercel.app
+
+- Designed and built a secure full-stack platform with **JWT-based auth**  
+- Implemented backend APIs, protected routes, and state management  
+- Responsive UI using Tailwind CSS and modern Next.js architecture  
+
+---
+
+### 🔹 Rizzz Lang — Custom Programming Language
+**Tech:** Python  
+🔗 https://rizzweb.netlify.app
+
+- Designed a beginner-friendly programming language  
+- Built an interpreter covering **lexing, parsing, and execution**  
+- Strengthened understanding of compilers and language design  
+
+---
+
+### 🔹 Compresso.io — Image Compression & Conversion Tool
+**Tech:** Next.js, MongoDB  
+🔗 https://compressoio.vercel.app
+
+- Built an online tool for **image compression and PDF/WebP conversion**  
+- Implemented **live file-size preview** with adjustable quality & scale (5%–90%)  
+- Added secure authentication using **JWT, cookies, and OTP verification**
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🏅 **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services (2025)  
+- 🎯 Student Coordinator — GTB4CEC Tech Fest 2024  
+- ♟️ 3rd Place — Inter-College Chess Tournament 2024  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmanhusain&show_icons=true&theme=radical&hide_border=true" height="170" style="max-width:100%; height:auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanhusain&theme=radical&hide_border=true" height="170" style="max-width:100%; height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmanhusain&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanhusain&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 📬 Connect With Me
+## 📬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:rahmanhusain899@gmail.com"> 📧 Email</a> &nbsp;|&nbsp;
+  <a href="mailto:rahmanhusain899@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://rahmanfolio.vercel.app">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/rahmanhusain">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/rahmanhusain">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/rahman-husain-45bb60237/">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Rahmanhusain">🐙 GitHub</a>
 </p>
-
-
