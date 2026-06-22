@@ -114,6 +114,8 @@ I work across **backend systems, APIs, databases, and modern frontend frameworks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmanhusain&show_icons=true&theme=radical&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanhusain&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqra77818&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqra77818&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
