@@ -119,7 +119,7 @@ I work across **backend systems, APIs, databases, and modern frontend frameworks
 ---
 
 ## 📬 Let’s Connect
-
+<img src="https://komarev.com/ghpvc/?username=Rahmanhusain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <p align="center">
   <a href="mailto:rahmanhusain899@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://rahmanfolio.vercel.app">🌐 Portfolio</a> &nbsp;|&nbsp;
